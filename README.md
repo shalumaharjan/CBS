@@ -2,7 +2,7 @@
 
 A console-based Customer Billing System developed using the C programming language and file handling techniques, designed for small retail businesses operating in offline or low-resource environments.
 
-This project was developed as part of the **Bachelor of Computer Application (BCA)** curriculum under **Pokhara University**.
+This project was developed as part of the **Bachelor of Computer Application (BCA) - II Semester** curriculum under **Pokhara University**.
 
 ----------
 
