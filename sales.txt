@@ -1,0 +1,21 @@
+----------- Order ID: 001 -----------
+Pulses         	Qty: 5	Unit: 250.50	Total: 1252.50
+Rice           	Qty: 2	Unit: 500.00	Total: 1000.00
+Grand Total: 2252.50
+
+----------- Order ID: 002 -----------
+Salt           	Qty: 20	Unit: 80.00	Total: 1600.00
+IceCream       	Qty: 20	Unit: 350.00	Total: 7000.00
+Bread          	Qty: 25	Unit: 200.00	Total: 5000.00
+Grand Total: 13600.00
+
+----------- Order ID: 003 -----------
+Rice           	Qty: 30	Unit: 800.00	Total: 24000.00
+Bread          	Qty: 100	Unit: 200.00	Total: 20000.00
+Grand Total: 44000.00
+
+----------- Order ID: 004 -----------
+Pasta          	Qty: 2	Unit: 500.00	Total: 1000.00
+Vegetables     	Qty: 30	Unit: 300.00	Total: 9000.00
+Grand Total: 10000.00
+
