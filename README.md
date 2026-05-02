@@ -56,14 +56,6 @@ This project was developed as part of the **Bachelor of Computer Application (BC
 
 ----------
 
-👩‍💻**Team Members**
-
-- Anjila Bhatt – Admin Module
-- Shalu Maharjan – Program Integration & Documentation
-- Swostika Subedi – Customer Module
-
-----------
-
 📄 **License**
 
 This project is developed for academic purposes only.
